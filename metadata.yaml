@@ -1,0 +1,33 @@
+_repo: Memoria-dos-feitos-macaenses-contra-os-piratas-da-Chinae-da-entrada-violenta-dos-inglezes-na-__36163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrade, José Ignacio de
+    aliases:
+    - De Andrade, José Ignacio
+    - Andrade, Jose Ignacio de
+    birthdate: 1780
+    deathdate: 1863
+    gutenberg_agent_id: '38109'
+    url: http://www.gutenberg.org/2009/agents/38109
+description: ''
+gutenberg_issued: '2011-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36163'
+  lccn: '38009229'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Macau (China : Special Administrative Region) -- History'
+- !lcc 'DS'
+- !lcsh 'Pirates'
+title: 'Memoria dos feitos macaenses contra os piratas da China
+
+  e da entrada violenta dos inglezes na cidade de Macáo'
+url: http://www.gutenberg.org/ebooks/36163
