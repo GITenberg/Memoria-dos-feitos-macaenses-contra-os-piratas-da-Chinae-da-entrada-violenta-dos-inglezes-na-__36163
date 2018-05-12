@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '38109'
     url: http://www.gutenberg.org/2009/agents/38109
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36163#Memoria-dos-feitos-macaenses-contra-os-piratas-da-Chinae-da-entrada-violenta-dos-inglezes-na-_
 gutenberg_issued: '2011-05-17'
 gutenberg_type: Text
 identifiers:
